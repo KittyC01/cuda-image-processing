@@ -1,0 +1,16 @@
+CUDA Image Processing Project
+Images: 100
+Resolution: 256x256
+GPU block size: 16x16
+GPU grid size: 16x16
+Processed 10/100 images
+Processed 20/100 images
+Processed 30/100 images
+Processed 40/100 images
+Processed 50/100 images
+Processed 60/100 images
+Processed 70/100 images
+Processed 80/100 images
+Processed 90/100 images
+Processed 100/100 images
+Processing completed successfully.
